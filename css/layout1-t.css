@@ -1,0 +1,63 @@
+
+
+.container{
+    width: 800px;
+    margin: 0px auto;
+}
+
+.blog-content{
+    width: 80%;
+    height: 200px;
+    float: left;
+}
+
+.blog-img{
+    width: 20%;
+    height: 200px;
+    float: left;
+}
+
+.blog-img img{
+    width: 100%;
+}
+
+.blog-profile{
+    width: 50px;
+    float: left;
+}
+
+.blog-name{
+    float: left;
+}
+
+.blog-name h4{
+    margin: 5px;
+}
+
+.blog-name p{
+    margin: 5px;
+}
+
+.text{
+    padding-top: 10px;
+}
+
+.text h4{
+    margin: 10px;
+}
+
+.text p{
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

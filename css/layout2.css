@@ -48,6 +48,10 @@ div.float-box{
     margin: auto;
 }
 
+input[type=text]{
+    border: solid 2px red;
+}
+
 
 
 

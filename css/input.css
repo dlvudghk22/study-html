@@ -1,0 +1,98 @@
+
+body{
+    background-color: #333;
+}
+
+.clearfix::after{
+    display: block;
+    content: '';
+    clear: both;
+}
+
+div.container{
+    width: 50%;
+    height: 80%;
+    background-color: white;
+    margin: auto auto;
+    padding: 40px;
+    box-sizing: border-box;
+    font-size: 14px;
+    color: #444;
+}
+
+div.container h2{
+    font-size: 32px;
+    color: #000;
+}
+
+div.container input{
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+div.email-box input{
+    width: 100%;
+}
+
+div.first-name-box{
+    float: left;
+}
+
+div.last-name-box{
+    float: right;
+}
+
+div.message-box textarea{
+    width: 100%;
+    height: 100px;
+    resize: none;
+    box-sizing: border-box;
+}
+
+div.bottom-box{
+    margin-top: 20px;
+}
+
+div.subscribe-box{
+    float: left;
+    line-height: 35px;
+}
+
+div.bottom-box > input{
+    float: right;
+    padding: 0px 40px 0px 40px;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

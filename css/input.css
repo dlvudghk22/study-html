@@ -34,12 +34,26 @@ div.email-box input{
     width: 100%;
 }
 
+div.name-box{
+    width: 100%;
+}
+
 div.first-name-box{
     float: left;
+    width: 45%;
 }
 
 div.last-name-box{
     float: right;
+    width: 45%;
+}
+
+div.first-name-box input{
+    width: 100%;
+}
+
+div.last-name-box input{
+    width: 100%;
 }
 
 div.message-box textarea{

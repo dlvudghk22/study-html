@@ -9,23 +9,23 @@ body{
     clear: both;
 }
 
-div.container{
+form.container{
     width: 50%;
     height: 80%;
     background-color: white;
-    margin: auto auto;
+    margin: 100px auto;
     padding: 40px;
     box-sizing: border-box;
     font-size: 14px;
     color: #444;
 }
 
-div.container h2{
+form.container h2{
     font-size: 32px;
     color: #000;
 }
 
-div.container input{
+form.container input{
     padding: 10px;
     box-sizing: border-box;
 }
